@@ -26,6 +26,10 @@
  .turma{
      background-image: linear-gradient(#a51d68,#6b0000);
      color:white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 24px 0;
 }
 .Veterinary-imagem{
     width:25%;
